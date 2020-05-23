@@ -1,0 +1,11 @@
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\bin\Debug\netcoreapp3.1\ex76_beginner(files).exe
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\bin\Debug\netcoreapp3.1\ex76_beginner(files).deps.json
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\bin\Debug\netcoreapp3.1\ex76_beginner(files).runtimeconfig.json
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\bin\Debug\netcoreapp3.1\ex76_beginner(files).runtimeconfig.dev.json
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\bin\Debug\netcoreapp3.1\ex76_beginner(files).dll
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\bin\Debug\netcoreapp3.1\ex76_beginner(files).pdb
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\obj\Debug\netcoreapp3.1\ex76_beginner(files).csprojAssemblyReference.cache
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\obj\Debug\netcoreapp3.1\ex76_beginner(files).AssemblyInfoInputs.cache
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\obj\Debug\netcoreapp3.1\ex76_beginner(files).AssemblyInfo.cs
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\obj\Debug\netcoreapp3.1\ex76_beginner(files).dll
+C:\Users\Nataly\source\repos\C#Udemy\ex76_beginner(files)\ex76_beginner(files)\obj\Debug\netcoreapp3.1\ex76_beginner(files).pdb

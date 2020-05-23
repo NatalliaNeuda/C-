@@ -1,0 +1,10 @@
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\bin\Debug\netcoreapp3.1\Exercise43.1.exe
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\bin\Debug\netcoreapp3.1\Exercise43.1.deps.json
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\bin\Debug\netcoreapp3.1\Exercise43.1.runtimeconfig.json
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\bin\Debug\netcoreapp3.1\Exercise43.1.runtimeconfig.dev.json
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\bin\Debug\netcoreapp3.1\Exercise43.1.dll
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\bin\Debug\netcoreapp3.1\Exercise43.1.pdb
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\obj\Debug\netcoreapp3.1\Exercise43.1.AssemblyInfoInputs.cache
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\obj\Debug\netcoreapp3.1\Exercise43.1.AssemblyInfo.cs
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\obj\Debug\netcoreapp3.1\Exercise43.1.dll
+C:\Users\Nataly\source\repos\C#Udemy\Exercise43.1\Exercise43.1\obj\Debug\netcoreapp3.1\Exercise43.1.pdb

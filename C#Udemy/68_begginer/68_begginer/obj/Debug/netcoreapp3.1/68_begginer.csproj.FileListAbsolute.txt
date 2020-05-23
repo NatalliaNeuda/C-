@@ -1,0 +1,11 @@
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\bin\Debug\netcoreapp3.1\68_begginer.exe
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\bin\Debug\netcoreapp3.1\68_begginer.deps.json
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\bin\Debug\netcoreapp3.1\68_begginer.runtimeconfig.json
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\bin\Debug\netcoreapp3.1\68_begginer.runtimeconfig.dev.json
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\bin\Debug\netcoreapp3.1\68_begginer.dll
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\bin\Debug\netcoreapp3.1\68_begginer.pdb
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\obj\Debug\netcoreapp3.1\68_begginer.csprojAssemblyReference.cache
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\obj\Debug\netcoreapp3.1\68_begginer.AssemblyInfoInputs.cache
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\obj\Debug\netcoreapp3.1\68_begginer.AssemblyInfo.cs
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\obj\Debug\netcoreapp3.1\68_begginer.dll
+C:\Users\Nataly\source\repos\C#Udemy\68_begginer\68_begginer\obj\Debug\netcoreapp3.1\68_begginer.pdb

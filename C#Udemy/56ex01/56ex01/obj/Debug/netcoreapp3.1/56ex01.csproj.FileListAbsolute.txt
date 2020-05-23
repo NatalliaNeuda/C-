@@ -1,0 +1,11 @@
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\bin\Debug\netcoreapp3.1\56ex01.exe
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\bin\Debug\netcoreapp3.1\56ex01.deps.json
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\bin\Debug\netcoreapp3.1\56ex01.runtimeconfig.json
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\bin\Debug\netcoreapp3.1\56ex01.runtimeconfig.dev.json
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\bin\Debug\netcoreapp3.1\56ex01.dll
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\bin\Debug\netcoreapp3.1\56ex01.pdb
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\obj\Debug\netcoreapp3.1\56ex01.csprojAssemblyReference.cache
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\obj\Debug\netcoreapp3.1\56ex01.AssemblyInfoInputs.cache
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\obj\Debug\netcoreapp3.1\56ex01.AssemblyInfo.cs
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\obj\Debug\netcoreapp3.1\56ex01.dll
+C:\Users\Nataly\source\repos\C#Udemy\56ex01\56ex01\obj\Debug\netcoreapp3.1\56ex01.pdb
