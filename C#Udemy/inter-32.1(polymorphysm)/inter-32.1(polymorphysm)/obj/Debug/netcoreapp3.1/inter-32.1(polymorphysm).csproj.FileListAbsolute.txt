@@ -1,0 +1,11 @@
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\bin\Debug\netcoreapp3.1\inter-32.1(polymorphysm).exe
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\bin\Debug\netcoreapp3.1\inter-32.1(polymorphysm).deps.json
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\bin\Debug\netcoreapp3.1\inter-32.1(polymorphysm).runtimeconfig.json
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\bin\Debug\netcoreapp3.1\inter-32.1(polymorphysm).runtimeconfig.dev.json
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\bin\Debug\netcoreapp3.1\inter-32.1(polymorphysm).dll
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\bin\Debug\netcoreapp3.1\inter-32.1(polymorphysm).pdb
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\obj\Debug\netcoreapp3.1\inter-32.1(polymorphysm).csprojAssemblyReference.cache
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\obj\Debug\netcoreapp3.1\inter-32.1(polymorphysm).AssemblyInfoInputs.cache
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\obj\Debug\netcoreapp3.1\inter-32.1(polymorphysm).AssemblyInfo.cs
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\obj\Debug\netcoreapp3.1\inter-32.1(polymorphysm).dll
+C:\Users\Nataly\source\repos\C#Udemy\inter-32.1(polymorphysm)\inter-32.1(polymorphysm)\obj\Debug\netcoreapp3.1\inter-32.1(polymorphysm).pdb

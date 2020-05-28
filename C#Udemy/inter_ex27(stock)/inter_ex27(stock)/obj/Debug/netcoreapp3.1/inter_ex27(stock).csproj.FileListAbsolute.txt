@@ -1,0 +1,13 @@
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\bin\Debug\netcoreapp3.1\inter_ex27(stock).exe
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\bin\Debug\netcoreapp3.1\inter_ex27(stock).deps.json
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\bin\Debug\netcoreapp3.1\inter_ex27(stock).runtimeconfig.json
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\bin\Debug\netcoreapp3.1\inter_ex27(stock).runtimeconfig.dev.json
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\bin\Debug\netcoreapp3.1\inter_ex27(stock).dll
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\bin\Debug\netcoreapp3.1\inter_ex27(stock).pdb
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\obj\Debug\netcoreapp3.1\inter_ex27(stock).csprojAssemblyReference.cache
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\obj\Debug\netcoreapp3.1\inter_ex27(stock).AssemblyInfoInputs.cache
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\obj\Debug\netcoreapp3.1\inter_ex27(stock).AssemblyInfo.cs
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\obj\Debug\netcoreapp3.1\inter_ex27(stock).dll
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\obj\Debug\netcoreapp3.1\inter_ex27(stock).pdb
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\obj\Debug\netcoreapp3.1\inter_ex27(stock).csproj.CoreCompileInputs.cache
+C:\Users\Nataly\source\repos\C#Udemy\inter_ex27(stock)\inter_ex27(stock)\obj\Debug\netcoreapp3.1\inter_ex27(stock).genruntimeconfig.cache
